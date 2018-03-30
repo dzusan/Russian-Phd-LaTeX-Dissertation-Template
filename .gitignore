@@ -154,3 +154,15 @@ pythontex-files-*/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Python
+*.pyc
+
+# IDE
+**/.vscode
+**/.idea
+
+# Data
+**/logs
+*.csv
+*.log
